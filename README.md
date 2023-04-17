@@ -1,5 +1,20 @@
 # US-Air-Quality-Trend
 
+# What's in the Wind?: Evaluating Air Quality Trends in the United States Since 1990
+
+Contributors: Alexander Heger, Yu Ting Hung, Ishan Nagrani, Lingxuan Wang, Fanfei Zhao
+
+----
+
+### Table of Contents
+
+> 1. [Introduction](#part1)
+> 2. [Challenges](#part2)
+> 3. [Data Cleaning](#part3)
+> 4. [Data Analysis](#part4)
+> 5. [Conclusions and Future Scope](#part5)
+> 6. [References](#part6)
+
 ## Part 1: Introduction 
 
 ### 1.1. Problem Statement
